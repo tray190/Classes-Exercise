@@ -1,0 +1,5 @@
+C:\Users\bellt\Desktop\repos18\Classes Exercise\Classes Exercise\obj\Debug\net5.0\Classes Exercise.csproj.AssemblyReference.cache
+C:\Users\bellt\Desktop\repos18\Classes Exercise\Classes Exercise\obj\Debug\net5.0\Classes Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bellt\Desktop\repos18\Classes Exercise\Classes Exercise\obj\Debug\net5.0\Classes Exercise.AssemblyInfoInputs.cache
+C:\Users\bellt\Desktop\repos18\Classes Exercise\Classes Exercise\obj\Debug\net5.0\Classes Exercise.AssemblyInfo.cs
+C:\Users\bellt\Desktop\repos18\Classes Exercise\Classes Exercise\obj\Debug\net5.0\Classes Exercise.csproj.CoreCompileInputs.cache
