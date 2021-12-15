@@ -11,13 +11,13 @@ namespace Classes_Exercise
             Car1.Model = "ModelX";
             Car1.Year = 2019;
 
-            Console.WriteLine($"{Car1.Make}");
-            Console.WriteLine($"{Car1.Model}");
-            Console.WriteLine($"{Car1.Year}");
+            Console.WriteLine($"Make: {Car1.Make}");
+            Console.WriteLine($"Model: {Car1.Model}");
+            Console.WriteLine($"Year: {Car1.Year }");
                 {
 
                 }
-            }
+            
         }
     }
 }
