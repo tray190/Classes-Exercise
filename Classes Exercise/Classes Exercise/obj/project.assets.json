@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bellt\\Desktop\\Repos\\repos18\\Classes Exercise\\Classes Exercise\\Classes Exercise.csproj",
+      "projectUniqueName": "C:\\Users\\bellt\\Desktop\\Repos\\class\\Classes Exercise\\Classes Exercise\\Classes Exercise.csproj",
       "projectName": "Classes Exercise",
-      "projectPath": "C:\\Users\\bellt\\Desktop\\Repos\\repos18\\Classes Exercise\\Classes Exercise\\Classes Exercise.csproj",
+      "projectPath": "C:\\Users\\bellt\\Desktop\\Repos\\class\\Classes Exercise\\Classes Exercise\\Classes Exercise.csproj",
       "packagesPath": "C:\\Users\\bellt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bellt\\Desktop\\Repos\\repos18\\Classes Exercise\\Classes Exercise\\obj\\",
+      "outputPath": "C:\\Users\\bellt\\Desktop\\Repos\\class\\Classes Exercise\\Classes Exercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bellt\\AppData\\Roaming\\NuGet\\NuGet.Config",

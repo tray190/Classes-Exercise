@@ -14,10 +14,7 @@ namespace Classes_Exercise
             Console.WriteLine($"Make: {Car1.Make}");
             Console.WriteLine($"Model: {Car1.Model}");
             Console.WriteLine($"Year: {Car1.Year }");
-                {
 
-                }
-            
         }
     }
 }
